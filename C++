@@ -1,0 +1,19 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    int iDato;
+    int iVal;
+
+    iVal = 10;
+    string sCade;
+
+    sCade = "Hola Mundo";
+    cout << sCade.length() << endl;
+    double PI;
+
+    PI = 3.1416;
+    cout << PI << endl;
+    return 0;
+}
