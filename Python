@@ -1,0 +1,5 @@
+iVal = 10
+sCade = "Hola Mundo"
+print(iVal)
+PI = 3.1416
+print(PI)
